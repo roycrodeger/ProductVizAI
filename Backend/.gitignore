@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.dll
+
+# Distribution / packaging
+.Python
+env/
+venv/
+lib/
+lib64/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+.Trashes
+Thumbs.db
+
+# Flask
+instance/
+.flaskenv
+
+# FastAPI
+.env
+
+# Logs
+*.log
